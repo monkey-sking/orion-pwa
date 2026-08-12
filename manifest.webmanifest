@@ -1,0 +1,26 @@
+{
+  "name": "猎户信号 · 故事学单词",
+  "short_name": "猎户信号",
+  "description": "用科幻英雄之旅故事学英语高频词 · 网页原型（可装到主屏幕）",
+  "start_url": "./",
+  "id": "orion-signal",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f7fa",
+  "theme_color": "#3370ff",
+  "icons": [
+    {
+      "src": "app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "app-icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

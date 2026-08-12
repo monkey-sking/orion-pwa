@@ -1,0 +1,33 @@
+猎户座的最后信号 The Last Signal of Orion（猎户信号 · 故事学单词 v4.1）
+Copyright (c) 2026 runking · Orion project contributors
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0
+International License (CC BY-SA 4.0). To view a copy of this license, visit
+https://creativecommons.org/licenses/by-sa/4.0/
+
+You are free to:
+  - Share   — copy and redistribute the material in any medium or format
+  - Adapt   — remix, transform, and build upon the material
+Under the following terms:
+  - Attribution — You must give appropriate credit, provide a link to the
+    license, and indicate if changes were made.
+  - ShareAlike  — If you remix or build upon the material, you must distribute
+    your contributions under the same license as the original.
+
+Third-party content:
+  - The New General Service List (NGSL) 1.2 word list and English definitions
+    are (C) Browne, Culligan & Phillips (2013), sourced from
+    https://www.newgeneralservicelist.com and used under CC BY-SA 4.0.
+  - The sci-fi hero's-journey story "The Last Signal of Orion / 猎户座的最后信号"
+    is an original work by runking, contributed under CC BY-SA 4.0.
+  - The Chinese glosses and the Orion Archive chapters 16–23 (a narrative
+    retelling of NGSL English definitions, with only the framework sentences
+    being original) are derivative content under CC BY-SA 4.0.
+  - Modifications: word-form merging/normalization and the adaptation of NGSL
+    definitions into story sentences are changes made to the third-party content,
+    as required to be indicated under CC BY-SA 4.0.
+
+Note (pending confirmation): the English definitions bundled for the 2809 NGSL
+words were compiled from a local word-list file without an explicit per-entry
+source marker. If they are not verbatim from the official NGSL 1.2 release, the
+above NGSL attribution may need correction before public distribution.

@@ -1,0 +1,27 @@
+# Local WorkBuddy project state (memory/settings) — keep private
+.workbuddy/
+
+# Large data / binaries not needed to build or run
+ecdict.csv
+ngsl.parquet
+_ngsl_defs.xlsx
+
+# Scratch / temporary working files
+_*.js
+_*.json
+_*.txt
+_*.csv
+_*.xlsx
+
+# Internal review artifacts (not the app)
+app-design-report.html
+expert-panel-review.html
+native-blueprint.html
+prototype-review.html
+prototype-review-v2.html
+
+# Misc
+node_modules/
+.DS_Store
+Thumbs.db
+*.swp

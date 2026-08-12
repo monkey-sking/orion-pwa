@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3370ff"/>
+      <stop offset="1" stop-color="#1f4fd6"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="512" height="512" rx="112" fill="url(#bg)"/>
+  <!-- open book -->
+  <g fill="#ffffff">
+    <path d="M256 150 C214 120 150 120 104 140 L104 372 C150 352 214 352 256 382 Z" opacity="0.96"/>
+    <path d="M256 150 C298 120 362 120 408 140 L408 372 C362 352 298 352 256 382 Z" opacity="0.78"/>
+  </g>
+  <!-- spine -->
+  <rect x="250" y="148" width="12" height="238" rx="6" fill="#1f4fd6"/>
+  <!-- star (light of Aeloria) -->
+  <path d="M256 92 l16 34 36 5 -26 26 6 37 -32 -18 -32 18 6 -37 -26 -26 36 -5 z" fill="#ffd54a"/>
+</svg>
