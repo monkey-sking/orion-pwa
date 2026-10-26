@@ -1,5 +1,9 @@
 # 猎户信号 · 故事学单词（Orion）
 
+<!-- badges:start -->
+[![License](https://img.shields.io/badge/license-Custom-blue?style=flat-square)](https://github.com/monkey-sking/orion-pwa/blob/main/LICENSE) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/orion-pwa?style=flat-square)](https://github.com/monkey-sking/orion-pwa/commits/main) [![HTML](https://img.shields.io/github/languages/top/monkey-sking/orion-pwa?style=flat-square)](https://github.com/monkey-sking/orion-pwa/search?l=HTML) [![views](https://hits.sh/github.com/monkey-sking/orion-pwa.svg?style=flat-square&label=views&color=0e75b6)](https://github.com/monkey-sking/orion-pwa)
+<!-- badges:end -->
+
 > 一个把 **科幻英雄之旅故事** 和 **NGSL 1.2 高频词表（2809 词）** 结合在一起的网页英语学习应用（PWA，可装到手机主屏幕）。
 > 当前版本：**v4.16**
 
